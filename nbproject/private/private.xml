@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="2">
+        <file>
+            <url>app/Http/Controllers/Game/PayCountController.php</url>
+            <bookmark id="1">
+                <name/>
+                <line>219</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>app/Models/Game/base/UseGoodsLog.php</url>
+            <bookmark id="2">
+                <name/>
+                <line>19</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/phpStudy/WWW/laravel_admin/config/game.php</file>
+            <file>file:/D:/phpStudy/WWW/laravel_admin/resources/views/admin/game/rollnotice/show.blade.php</file>
+            <file>file:/D:/phpStudy/WWW/laravel_admin/routes/web.php</file>
+            <file>file:/D:/phpStudy/WWW/laravel_admin/resources/views/admin/game/rollnotice/list.blade.php</file>
+            <file>file:/D:/phpStudy/WWW/laravel_admin/app/Http/Controllers/Game/ScareBuyController.php</file>
+            <file>file:/D:/phpStudy/WWW/laravel_admin/app/Http/Controllers/Game/RollNoticeController.php</file>
+            <file>file:/D:/phpStudy/WWW/laravel_admin/resources/views/admin/game/scarebuy/show.blade.php</file>
+        </group>
+    </open-files>
+</project-private>

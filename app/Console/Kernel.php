@@ -13,24 +13,7 @@ class Kernel extends ConsoleKernel
      * @var array
      */
     protected $commands = [
-        \App\Console\Commands\ArtisanOnlineCount::class,
-        \App\Console\Commands\ArtisanPayCount::class,
-        \App\Console\Commands\ArtisanMoneyCount::class,
-        \App\Console\Commands\ArtisanBwsCount::class,
-        \App\Console\Commands\ArtisanBrnnMoneyCount::class,
-        \App\Console\Commands\ArtisanPayGoodsCount::class,
-        \App\Console\Commands\ArtisanPayProfileCount::class,
-        \App\Console\Commands\ArtisanPaySceneCountModel::class,
-        \App\Console\Commands\ArtisanActiveCount::class,
-        \App\Console\Commands\ArtisanMatchCount::class,
-        \App\Console\Commands\ArtisanLuckDrawCount::class,
-        \App\Console\Commands\ArtisanSeasonCount::class,
-        \App\Console\Commands\ArtisanDayCount::class,
-        \App\Console\Commands\ArtisanZfbMoneyCount::class,    
-        \App\Console\Commands\ArtisanCoinCount::class,
-        \App\Console\Commands\ArtisanMatchRankCount::class,
-        \App\Console\Commands\ArtisanCoinRankCount::class,
-        \App\Console\Commands\ArtisanPlayCoinCount::class,
+
     ];
 
     /**
